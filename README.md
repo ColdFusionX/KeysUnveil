@@ -1,8 +1,8 @@
-# Authenticated Memcached Keys Brutforce Script
+# Authenticated Memcached Keys Brute-force Script
 
 Script is used to Bruteforce Keys Memcached service supporting Binary Protocol 
 
-Expected outcome: Discover Keys and there Values on Memcached service
+Expected outcome: Discover Keys and there Values inside Memcached service
 
 Intended only for educational and testing in corporate environments.
 
