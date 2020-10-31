@@ -1,6 +1,6 @@
 # Authenticated Memcached Keys Brute-force Script
 
-#### This Script is not an Exploit, It just automates the process of testing Keys manually on Memcached service supporting Binary Protocol 
+#### NOTE: This Script is not a Exploit, It just automates the process of testing Keys manually on Memcached service supporting Binary Protocol 
 
 Expected outcome: Discover Keys and there Values stored inside Memcached service
 
