@@ -1,6 +1,6 @@
 # Authenticated Memcached Keys Brute-force Script
 
-Script is used to Bruteforce Keys Memcached service supporting Binary Protocol 
+#### This Script is not an Exploit, It just automates the process of testing Keys manually on Memcached service supporting Binary Protocol 
 
 Expected outcome: Discover Keys and there Values stored inside Memcached service
 
