@@ -54,7 +54,7 @@ This exploit expects four user inputs :
 
 ```shell
 cfx:  ~/Memcached_bruteforce
-→ ./keys_brute.py -l 127.0.0.1:11211 -u cold -p password -w dictionary.txt
+→ ./keys_brute.py -l 127.0.0.1:11211 -u cold -p fusionx -w dictionary.txt
 
 [*] Initiating Keys Bruteforce
 
