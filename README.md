@@ -44,7 +44,7 @@ pip3 install python-binary-memcached
 ```
 ### Proof of Concept :
 
-This exploit expects four user inputs :
+This script expects four user inputs :
 - **Host** - Connection to Host -> IP:PORT (Example: 127.0.0.1:11211)
 - **Username** - Memcached Username
 - **Password** - Memcached Password
